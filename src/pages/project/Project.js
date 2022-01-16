@@ -1,7 +1,7 @@
 // Styles
 import './Project.css'
 
-export default function Dashboard() {
+export default function Project() {
     return (
         <div>
             Project
