@@ -28,11 +28,10 @@ export default function Dashboard() {
                     }
                 })
                 return assignedToMe
-            case 'development':
-            case 'design':
-            case 'sales':
-            case 'marketing':
-                console.log(document.category, currentFilter)
+            case 'home':
+            case 'travel':
+            case 'doctor':
+            case 'leisure':
                 return document.category === currentFilter
             default:
                 return true
