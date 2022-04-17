@@ -3,6 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import 'firebase/storage';
 
+// In this project I am using Firebase version 8.5. Version 9 is available now and will be used for future projects
 // We copy this from Firebase, when creating the new project
 const firebaseConfig = {
   apiKey: 'AIzaSyD42NaDko8kSDozXRHS1Lz-L_2_DQW0S8M',
