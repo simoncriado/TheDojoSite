@@ -1,7 +1,7 @@
 import { createContext, useReducer, useEffect } from 'react';
 import { projectAuth } from '../firebase/config';
 
-// Here we create a new context
+// Here we create a new context. This to allow us to have access to the user data in the whole app (to be used in different components)
 export const AuthContext = createContext();
 
 export const authReducer = (state, action) => {
