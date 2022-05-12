@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfde2f24.chunk.css",
+    "main.js": "/static/js/main.af6b6a74.chunk.js",
+    "main.js.map": "/static/js/main.af6b6a74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7cb0dfeb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7cb0dfeb.js.map",
+    "static/js/2.2283f2c0.chunk.js": "/static/js/2.2283f2c0.chunk.js",
+    "static/js/2.2283f2c0.chunk.js.map": "/static/js/2.2283f2c0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bfde2f24.chunk.css.map": "/static/css/main.bfde2f24.chunk.css.map",
+    "static/js/2.2283f2c0.chunk.js.LICENSE.txt": "/static/js/2.2283f2c0.chunk.js.LICENSE.txt",
+    "static/media/add_icon.376e9b6a.svg": "/static/media/add_icon.376e9b6a.svg",
+    "static/media/dashboard_icon.bc800f3b.svg": "/static/media/dashboard_icon.bc800f3b.svg",
+    "static/media/ms-icon-144x144.7ed4712c.png": "/static/media/ms-icon-144x144.7ed4712c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb0dfeb.js",
+    "static/js/2.2283f2c0.chunk.js",
+    "static/css/main.bfde2f24.chunk.css",
+    "static/js/main.af6b6a74.chunk.js"
+  ]
+}
