@@ -1,6 +1,6 @@
 # Home Tasks Manager
 
-Project part of an online React & Firebase course. I choose to do this to practice my React and Firebase skills. Key project functionalities:
+Project part of an online React & Firebase course. I chose to do this project to practice my React and Firebase skills. Key project functionalities:
 
   - Sign up and log in functionalities.
   - Dashboard where you can see the projects (including filtering function) and the users that are currently online.
